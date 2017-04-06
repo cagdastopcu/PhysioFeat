@@ -1,5 +1,6 @@
-function feat = getrecewpcdb5featCT(x,winsize,wininc,datawin,dispstatus)
+function feat = getrecewpcdb5feat(x,winsize,wininc,datawin,dispstatus)
 %% author: Cagdas Topcu MSc
+%% 2015
 %% Calculates energy of wavelet packets of non-stationary signals (Electromyography - EMG)
 % x is data/signal
 % winsize = 500;
